@@ -1,0 +1,32 @@
+# EduFlex AI
+
+EduFlex AI is an AI-powered personalized learning assistant.
+
+## Problem
+Students have different learning speeds and different learning gaps.
+Traditional learning often gives the same study material and study plan to everyone.
+
+## Solution
+EduFlex AI analyzes study materials and student performance to provide personalized learning support.
+
+## Key Features
+- PDF study material analysis
+- AI Chat Assistant
+- AI-generated practice tests
+- Weak-topic identification
+- Personalized study plan
+- Progress graphs
+- Points, medals and badges
+- Student progress tracking
+
+## Technology
+- React
+- TypeScript
+- Vite
+- Node.js
+- Express
+- SQL
+- Gemini AI
+
+## Goal
+To help students learn at their own pace, improve weak areas and stay motivated.
