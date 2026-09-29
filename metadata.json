@@ -1,0 +1,6 @@
+{
+  "name": "EduFlex AI",
+  "description": "Your Pace. Your Path. Your Reward. AI-powered personalized learning and exam-preparation assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
